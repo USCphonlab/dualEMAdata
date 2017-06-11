@@ -1,0 +1,25 @@
+Dyad,Speaker,Condition [before/during/after],MAT Filename Range,WAV Filename Range
+S1S2,S1,before,S1S2_S1_080.mat - S1S2_S1_088.mat,S1S2_S1_080.wav - S1S2_S1_088.wav
+S1S2,S1,during,S1S2_S1_103.mat - S1S2_S1_139.mat,S1S2_S1_103.wav - S1S2_S1_139.wav
+S1S2,S1,after,S1S2_S1_140.mat - S1S2_S1_147.mat,S1S2_S1_140.wav - S1S2_S1_147.wav
+S1S2,S2,before,S1S2_S2_089.mat - S1S2_S2_098.mat,S1S2_S2_089.wav - S1S2_S2_098.wav
+S1S2,S2,during,S1S2_S2_103.mat - S1S2_S2_139.mat,S1S2_S2_103.wav - S1S2_S2_139.wav
+S1S2,S2,after,S1S2_S2_148.mat - S1S2_S2_155.mat,S1S2_S2_148.wav - S1S2_S2_155.wav
+S3S4,S3,before,S3S4_S3_078.mat - S3S4_S3_085.mat,S3S4_S3_078.wav - S3S4_S3_085.wav
+S3S4,S3,during,S3S4_S3_099.mat - S3S4_S3_136.mat,S3S4_S3_099.wav - S3S4_S3_136.wav
+S3S4,S3,after,S3S4_S3_137.mat - S3S4_S3_144.mat,S3S4_S3_137.wav - S3S4_S3_144.wav
+S3S4,S4,before,S3S4_S4_086.mat - S3S4_S4_094.mat,S3S4_S4_086.wav - S3S4_S4_094.wav
+S3S4,S4,during,S3S4_S4_099.mat - S3S4_S4_136.mat,S3S4_S4_099.wav - S3S4_S4_136.wav
+S3S4,S4,after,S3S4_S4_145.mat - S3S4_S4_152.mat,S3S4_S4_145.wav - S3S4_S4_152.wav
+S5S6,S5,before,S5S6_S5_076.mat - S5S6_S5_084.mat,S5S6_S5_076.wav - S5S6_S5_084.wav
+S5S6,S5,during,S5S6_S5_093.mat - S5S6_S5_134.mat,S5S6_S5_093.wav - S5S6_S5_134.wav
+S5S6,S5,after,S5S6_S5_135.mat - S5S6_S5_142.mat,S5S6_S5_135.wav - S5S6_S5_142.wav
+S5S6,S6,before,S5S6_S6_085.mat - S5S6_S6_092.mat,S5S6_S6_085.wav - S5S6_S6_092.wav
+S5S6,S6,during,S5S6_S6_093.mat - S5S6_S6_134.mat,S5S6_S6_093.wav - S5S6_S6_134.wav
+S5S6,S6,after,S5S6_S6_143.mat - S5S6_S6_151.mat,S5S6_S6_143.wav - S5S6_S6_151.wav
+S7S8,S7,before,S7S8_S7_082.mat - S7S8_S7_091.mat,S7S8_S7_082.wav - S7S8_S7_091.wav
+S7S8,S7,during,S7S8_S7_100.mat - S7S8_S7_146.mat,S7S8_S7_100.wav - S7S8_S7_146.wav
+S7S8,S7,after,S7S8_S7_147.mat - S7S8_S7_155.mat,S7S8_S7_147.wav - S7S8_S7_155.wav
+S7S8,S8,before,S7S8_S8_092.mat - S7S8_S8_099.mat,S7S8_S8_092.wav - S7S8_S8_099.wav
+S7S8,S8,during,S7S8_S8_100.mat - S7S8_S8_146.mat,S7S8_S8_100.wav - S7S8_S8_146.wav
+S7S8,S8,after,S7S8_S8_156.mat - S7S8_S8_163.mat,S7S8_S8_156.wav - S7S8_S8_163.wav
